@@ -1,10 +1,4 @@
-//
-//  ItemGridFlowLayout.swift
-//  Sortly
-//
-//  Created by Ramsundar Shandilya on 1/21/15.
-//  Copyright (c) 2015 Sortly Inc. All rights reserved.
-//
+
 
 import UIKit
 
